@@ -15,10 +15,11 @@ export const Button = styled.button`
   border: none;
   border-radius: 20px;
   padding: ${({ padi }) => padMap[padi] };
-  /* background-color: ${({ back }) => back}; */
-  background-color: ${({ color }) => colorMap[color]};
+  background-color: ${({ color }) => color? colorMap[color] : "yellow"};
   color: ${({ textcol }) => textcol};
-  /* color: ${({color}) => colorMap[color]}; */
   gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 `;
 
