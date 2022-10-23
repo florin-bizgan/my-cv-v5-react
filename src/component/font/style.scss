@@ -1,0 +1,285 @@
+@import "variable";
+
+@font-face {
+  font-family: '#{$icomoon-font-family}';
+  src:
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?xi33h') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?xi33h') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?xi33h##{$icomoon-font-family}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="cv-"], [class*=" cv-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$icomoon-font-family}' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.cv-figma {
+  &:before {
+    content: $cv-figma; 
+  }
+}
+.cv-linkedin-square {
+  &:before {
+    content: $cv-linkedin-square; 
+  }
+}
+.cv-linkedin {
+  &:before {
+    content: $cv-linkedin;
+    color: #0078d6;
+  }
+}
+.cv-figma1 {
+  &:before {
+    content: $cv-figma1;     
+    color: #f24e1e;
+  }
+}
+.cv-windows {
+  &:before {
+    content: $cv-windows;     
+    color: #0078d6;
+  }
+}
+.cv-twitch {
+  &:before {
+    content: $cv-twitch;     
+    color: #6441a4;
+  }
+}
+.cv-facebook {
+  &:before {
+    content: $cv-facebook;     
+    color: #1877f2;
+  }
+}
+.cv-gmail {
+  &:before {
+    content: $cv-gmail;     
+    color: #d14836;
+  }
+}
+.cv-stackoverflow {
+  &:before {
+    content: $cv-stackoverflow;     
+    color: #fe7a16;
+  }
+}
+.cv-udemy {
+  &:before {
+    content: $cv-udemy;     
+    color: #ec5252;
+  }
+}
+.cv-linkedin1 {
+  &:before {
+    content: $cv-linkedin1;     
+    color: #0077b5;
+  }
+}
+.cv-github {
+  &:before {
+    content: $cv-github; 
+  }
+}
+.cv-visualstudiocode {
+  &:before {
+    content: $cv-visualstudiocode;     
+    color: #007acc;
+  }
+}
+.cv-codewars {
+  &:before {
+    content: $cv-codewars;     
+    color: #ad2c27;
+  }
+}
+.cv-home {
+  &:before {
+    content: $cv-home; 
+  }
+}
+.cv-play {
+  &:before {
+    content: $cv-play; 
+  }
+}
+.cv-coin-dollar {
+  &:before {
+    content: $cv-coin-dollar; 
+  }
+}
+.cv-coin-euro {
+  &:before {
+    content: $cv-coin-euro; 
+  }
+}
+.cv-coin-pound {
+  &:before {
+    content: $cv-coin-pound; 
+  }
+}
+.cv-coin-yen {
+  &:before {
+    content: $cv-coin-yen; 
+  }
+}
+.cv-trophy {
+  &:before {
+    content: $cv-trophy; 
+  }
+}
+.cv-menu {
+  &:before {
+    content: $cv-menu; 
+  }
+}
+.cv-cross {
+  &:before {
+    content: $cv-cross; 
+  }
+}
+.cv-arrow-down {
+  &:before {
+    content: $cv-arrow-down; 
+  }
+}
+.cv-checkbox-checked {
+  &:before {
+    content: $cv-checkbox-checked; 
+  }
+}
+.cv-amazon {
+  &:before {
+    content: $cv-amazon; 
+  }
+}
+.cv-google {
+  &:before {
+    content: $cv-google; 
+  }
+}
+.cv-facebook1 {
+  &:before {
+    content: $cv-facebook1; 
+  }
+}
+.cv-facebook2 {
+  &:before {
+    content: $cv-facebook2; 
+  }
+}
+.cv-instagram {
+  &:before {
+    content: $cv-instagram; 
+  }
+}
+.cv-whatsapp {
+  &:before {
+    content: $cv-whatsapp; 
+  }
+}
+.cv-spotify {
+  &:before {
+    content: $cv-spotify; 
+  }
+}
+.cv-telegram {
+  &:before {
+    content: $cv-telegram; 
+  }
+}
+.cv-twitter {
+  &:before {
+    content: $cv-twitter; 
+  }
+}
+.cv-youtube {
+  &:before {
+    content: $cv-youtube; 
+  }
+}
+.cv-youtube2 {
+  &:before {
+    content: $cv-youtube2; 
+  }
+}
+.cv-steam {
+  &:before {
+    content: $cv-steam; 
+  }
+}
+.cv-steam2 {
+  &:before {
+    content: $cv-steam2; 
+  }
+}
+.cv-dropbox {
+  &:before {
+    content: $cv-dropbox; 
+  }
+}
+.cv-github1 {
+  &:before {
+    content: $cv-github1; 
+  }
+}
+.cv-windows1 {
+  &:before {
+    content: $cv-windows1; 
+  }
+}
+.cv-windows8 {
+  &:before {
+    content: $cv-windows8; 
+  }
+}
+.cv-skype {
+  &:before {
+    content: $cv-skype; 
+  }
+}
+.cv-linkedin2 {
+  &:before {
+    content: $cv-linkedin2; 
+  }
+}
+.cv-linkedin21 {
+  &:before {
+    content: $cv-linkedin21; 
+  }
+}
+.cv-stackoverflow1 {
+  &:before {
+    content: $cv-stackoverflow1; 
+  }
+}
+.cv-firefox {
+  &:before {
+    content: $cv-firefox; 
+  }
+}
+.cv-opera {
+  &:before {
+    content: $cv-opera; 
+  }
+}
+.cv-html-five {
+  &:before {
+    content: $cv-html-five; 
+  }
+}
+
