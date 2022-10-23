@@ -1,0 +1,54 @@
+{
+  "skillData": [
+    {
+      "title": "Front End",
+      "skillList": [
+        { "skillName": "HTML", "color": "red" },
+        { "skillName": "Redux", "color": "green" },
+        { "skillName": "SASS", "color": "red" },
+        { "skillName": "CSS", "color": "blue" },
+        { "skillName": "HTML", "color": "blue" },
+        { "skillName": "JavaScript", "color": "blue" },
+        { "skillName": "React", "color": "red" },
+        { "skillName": "Remix", "color": "green" }
+      ]
+    },
+    {
+      "title": "Back End",
+      "skillList": [
+        { "skillName": "Bash", "color": "red" },
+        { "skillName": "Gulp", "color": "green" },
+        { "skillName": "API", "color": "red" },
+        { "skillName": "Pug", "color": "blue" },
+        { "skillName": "Webpack", "color": "blue" },
+        { "skillName": "CLI", "color": "green" }
+      ]
+    },
+    {
+      "title": "Presentation",
+      "skillList": [
+        { "skillName": "HTML", "color": "red" },
+        { "skillName": "Redux", "color": "green" },
+        { "skillName": "React", "color": "blue" },
+        { "skillName": "Remix", "color": "red" },
+        { "skillName": "Live Events", "color": "blue" }
+      ]
+    }
+  ],
+  "skillBox": {
+    "sectionTitle": "Tech I love to work with",
+    "title": "Skills",
+    "boxContent": [
+      "I am working on improving the candidate's experience during the job search time.",
+      "I work every day with Remix, React, Hooks, Redux, NextJS, and Firebase with JavaScript and TypeScript to create amazing Apps."
+    ]
+  },
+  "legendBox": {
+    "title": "Legend",
+    "boxContent": [
+      { "text": "Tech I work every day with", "color": "red" },
+      { "text": "Tech I can get better at", "color": "blue" },
+      { "text": "Tech I wanna learn", "color": "green" }
+    ]
+  }
+}

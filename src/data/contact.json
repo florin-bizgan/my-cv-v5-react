@@ -1,0 +1,33 @@
+{"buttonList": [
+  {
+    "icon": "Facebook",
+    "text": "Check out my Facebook work with some businesses",
+    "link": "facebook"
+  },
+  {
+    "icon": "LinkedIn",
+    "text": "Check out my overall carrier on LinkedIn",
+    "link": "LinkedIn"
+  },
+  {
+    "icon": "Instagram",
+    "text": "Take a look at the freelance work I did for my friends",
+    "link": "Instagram"
+  },
+  {
+    "icon": "Codewars",
+    "text": "Let`s see how I did on the kata test",
+    "link": "Codewars"
+  },
+  {
+    "icon": "Github",
+    "text": "Have a look at my progress on Github",
+    "link": "https://github.com/Vivy"
+  },
+  {
+    "icon": "YouTube",
+    "text": "Check out my latest content about coding and having fun",
+    "link": "Youtube"
+  }
+]
+}

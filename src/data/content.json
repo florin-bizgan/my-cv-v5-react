@@ -1,0 +1,355 @@
+{
+  "welcome": {
+    "sectionTitle": "Welcome to my CV",
+    "nameTitle": "Florin-Onofrei Bizgan",
+    "jobTitle": "Junior Web Developer",
+    "moreTitle": "Sumar",
+    "descriptionList": [
+      "I am working on improving the candidate's experience during the job search time.",
+      "I work every day with Remix, React, Hooks, Redux, NextJS, and Firebase with JavaScript and TypeScript to create amazing Apps."
+    ],
+    "downloadButtonLabel": "Download my CV"
+  },
+  "summary": {
+    "sectionTitle": "Continue reading so you can get to know how I can help you help me help you so everyone gets helped",
+    "nameTitle": "Summary",
+    "description": [
+      "I am working on improving the candidate's experience during the job search time.",
+      "I work every day with Remix, React, Hooks, Redux, NextJS, and Firebase with JavaScript and TypeScript to create amazing Apps."
+    ]
+  },
+  "skills": {
+    "sectionTitle": "Skills",
+    "description": [
+      "I am working on improving the candidate's experience during the job search time.",
+      "I work every day with Remix, React, Hooks, Redux, NextJS, and Firebase with JavaScript and TypeScript to create amazing Apps."
+    ],
+    "legend": {
+      "title": "Legend",
+      "itemList": [
+        {
+          "color": "red",
+          "label": "Skills I love"
+        },
+        {
+          "color": "green",
+          "label": "Skills I`d love to get better at"
+        },
+        {
+          "color": "blue",
+          "label": "Skills I`m good at"
+        }
+      ]
+    },
+    "skillTypeList": [
+      {
+        "category": "Front-end",
+        "skillList": [
+          {
+            "color": "red",
+            "label": "HTML"
+          },
+          {
+            "color": "red",
+            "label": "SASS"
+          },
+          {
+            "color": "red",
+            "label": "React"
+          },
+          {
+            "color": "blue",
+            "label": "HTML"
+          },
+          {
+            "color": "blue",
+            "label": "CSS"
+          },
+          {
+            "color": "green",
+            "label": "Remix"
+          },
+          {
+            "color": "green",
+            "label": "Redux"
+          }
+        ]
+      },
+      {
+        "category": "Back-end",
+        "skillList": [
+          {
+            "color": "red",
+            "label": "Bash"
+          },
+          {
+            "color": "red",
+            "label": "API"
+          },
+          {
+            "color": "blue",
+            "label": "Pug"
+          },
+          {
+            "color": "blue",
+            "label": "Webpack"
+          },
+          {
+            "color": "green",
+            "label": "Gulp"
+          },
+          {
+            "color": "green",
+            "label": "CLI"
+          }
+        ]
+      },
+      {
+        "category": "Other",
+        "skillList": [
+          {
+            "color": "red",
+            "label": "HTML"
+          },
+          {
+            "color": "red",
+            "label": "Remix"
+          },
+          {
+            "color": "blue",
+            "label": "Live Events"
+          },
+          {
+            "color": "blue",
+            "label": "React"
+          },
+          {
+            "color": "green",
+            "label": "Redux"
+          }]
+      }
+    ]
+  },
+  "connect": {
+    "sectionTitle": "Let`s connect",
+    "avatarPath": "picture.jpg",
+    "boxContent": {
+      "boxTitle": "Contact",
+      "content": [
+        "I am working on improving the candidate's experience during the job search time.",
+        "I work every day with Remix, React, Hooks, Redux, NextJS, and Firebase with JavaScript and TypeScript to create amazing Apps."
+      ]
+    },
+    "socialList": [
+      {
+        "icon": "github",
+        "title": "GitHub",
+        "description": "Junior Web Developer",
+        "label": "GitHub",
+        "link": "https://github.com/florin-bizgan"
+      },
+      {
+        "icon": "linkedin1",
+        "title": "LinkedIn",
+        "description": "We can connect over LinkedIn",
+        "label": "LinkedIn",
+        "link": "https://www.linkedin.com/in/florin-bizgan-262994239/"
+      },
+      {
+        "icon": "codewars",
+        "title": "Codewars",
+        "description": "You can see my progress here",
+        "label": "Codewars",
+        "link": "https://www.codewars.com/users/florin-bizgan"
+      },
+      {
+        "icon": "facebook",
+        "title": "Facebook",
+        "description": "For more social media content about me please follow on Facebook",
+        "label": "Facebook",
+        "link": "https://www.facebook.com/florin.bizgan/"
+      },
+      {
+        "icon": "stackoverflow",
+        "title": "Stack Overflow",
+        "description": "Visit my Stack Overflow profile down below.",
+        "label": "Stack Overflow",
+        "link": "https://stackoverflow.com/users/20133050/bizgan-florin?tab=profile"
+      },
+      {
+        "icon": "udemy",
+        "title": "Udemy",
+        "description": "You can see more of my progress here.",
+        "label": "Udemy",
+        "link": "https://www.udemy.com/user/florin-onofrei-bizgan/"
+      }
+
+    ]
+  },
+  "experience": {
+    "sectionTitle": "Experience",
+    "jobList": [
+      {
+        "jobTitle": "Junior Web Developer",
+        "workingPeriod": "September 2022 - Present",
+        "logo": "company/logo/that/you/worked/for.jpg",
+        "companyName": "WoW DoP",
+        "moreDetails": [
+          "Creating web interfaces and connecting with useers",
+          "Deliver on Promise, bring the WoW factor"
+        ]
+      },
+      {
+        "jobTitle": "Formwork Carpenter",
+        "workingPeriod": "March 2018 - Present",
+        "logo": "company/logo/that/you/worked/for.jpg",
+        "companyName": "Blu-3 / BDC",
+        "moreDetails": [
+          "A formwork carpenter is a skilled worker who specializes in constructing formwork that acts as a mold in which concrete can be poured and supported until it sets."
+        ]
+      }
+    ]
+  },
+  "openSource": {
+    "sectionTitle": "Open Source",
+    "stats": {
+      "statsTitle": "Stats",
+      "statsList": [
+        {
+          "statsIcon": "github",
+          "statDescription": [
+            "Contributions last year: 580",
+            "Longest streak: 250"
+          ]
+        },
+        {
+          "statsIcon": "codewars",
+          "statDescription": [
+            "Top: ---",
+            "Reputation: 1",
+            "People reached: 0",
+            "Answers: 0"
+          ]
+        }
+      ]
+    },
+    "projects": {
+      "projectsSource": "Github projects",
+      "projectList": [
+        {
+          "projectTitle": "my-cv-starter",
+          "skillsGained":[
+            {
+              "skillName": "PUG",
+              "percentage": "7%",
+              "color": "matrix (CSS: #a86454)"
+            },
+            {
+              "skillName": "SCSS",
+              "percentage": "19.7%",
+              "color": "mulberry (CSS: #c6538c)"
+            },
+            {
+              "skillName": "JavaScript",
+              "percentage": "72.5%",
+              "color": "energyYellow (CSS: #f1e05a)"
+            }
+          ],
+          "projectStats": [
+            {
+              "projectStatIcon": "commits",
+              "projectStatInfo": "Commits: 26"
+            },
+            {
+              "projectStatIcon": "stars",
+              "projectStatInfo": "Stars: -"
+            },
+            {
+              "projectStatIcon": "forks",
+              "projectStatInfo": "Forks: -"
+            }
+          ],
+          "projectInfo": "Building website in a team to increase efficiency and to deliver better and faster products; actively learning and applying HTML5, CSS3, JavaScript, ReactJS, and Redux",
+          "projectIcon": {
+            "mandatoryIcon": "info",
+            "extraIcon": [
+              {
+                "icon": "github",
+                "link": "https://github.com/florin-bizgan/my-cv-starter"
+              },
+              {
+                "icon": "youtube",
+                "link": "https://youtube.com"
+              }
+            ]
+          },
+          "projectLink": {
+            "icon": "github",
+            "description": "florin-bizgan/my-cv-starter",
+            "link": "https://github.com/florin-bizgan/my-cv-starter"
+          }
+        }
+      ]
+    }
+  },
+  "portofolio": {
+    "sectionTitle": "Portofolio",
+    "subtitle": "Recent",
+    "recentPortofolioList": [
+      {
+        "title": "My CV Starter",
+        "skills": "HTML, CSS, PUG, SCSS, Git",
+        "image": "asset/image/company-logo/Blu-3.png",
+        "linkIcon": "https://github.com/florin-bizgan/my-cv-starter"
+      }
+    ]
+  },
+  "recomandations": {
+    "sectionTitle": "Recomandations",
+    "recomandationList": [
+      {
+        "image": "asset/image/marian.png",
+        "personaName": "Marian Zburlea",
+        "jobTitle": "Career Mentor",
+        "review": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      }
+    ]
+  },
+  "reviews": {
+    "sectionTitle": "Reviews",
+    "reviewList": [
+      {
+        "image": "asset/image/marian.png",
+        "personaName": "Marian Zburlea",
+        "date": "September 2022",
+        "review": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      }
+    ]
+  },
+  "proud": {
+    "sectionTitle": " I'm Proud",
+    "subtitle": "Awards and Achievements",
+    "proudList": [
+      {
+        "date": "2010",
+        "award": "Bachelor degree in Economics",
+        "location": "Romania"
+      },
+      {
+        "date": "2011",
+        "award": "I have moved to Italy",
+        "location": "From Romania to Latina IT"
+      },
+      {
+        "date": "2018",
+        "award": "I have moved to London and started a new life",
+        "location": "From Latina IT to London UK"
+      },
+      {
+        "date": "2022",
+        "award": "I have decided to give it another try to my old wish of becoming a web developer",
+        "location": "London"
+      }
+    ]
+  }
+}
